@@ -1,6 +1,6 @@
 # Program 2: School Success
 
-**Due date: Thursday October, 2024 at 5:30pm. No late submissions allowed.**
+**Due date: Tuesday October 8, 2024 at 5:30pm. No late submissions allowed.**
 
 This assignment's learning objective is to deepen your understanding on data manipulation, feature engineering, simple (1-dimensional) linear regression, loss functions, and model evaluation. This assignment will also check for coding style using the [pylint](https://www.pylint.org/) linter.
 
